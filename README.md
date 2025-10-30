@@ -42,6 +42,7 @@ Shows a 3×3 grid of random test images from the test1 folder with predicted lab
 │
 
 ├── Images
+   
     ├── train/                   # Training images (cats & dogs)
     ├── test1/                   # Test images (unlabeled)
 
