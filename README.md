@@ -40,8 +40,13 @@ Shows a 3×3 grid of random test images from the test1 folder with predicted lab
 🗂️ File Structure
 📁 Cat-Dog-SVM-Classifier
 │
-├── train/                   # Training images (cats & dogs)
-├── test1/                   # Test images (unlabeled)
+
+├── Images
+    ├── train/                   # Training images (cats & dogs)
+    ├── test1/                   # Test images (unlabeled)
+
 ├── svm_cat_dog_model.pkl    # Saved SVM model
+
 ├── Task3.py           # Main Python script
+
 └── README.md                # Project overview and setup
